@@ -1,4 +1,4 @@
-name: Build Dreamscape Menu
+name: Build Iridium Menu
 
 on:
   workflow_dispatch:
@@ -30,7 +30,7 @@ jobs:
 
     steps:
       - name: Checkout Repository 
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Build Geode Mod
         uses: geode-sdk/build-geode-mod@main

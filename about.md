@@ -6,7 +6,7 @@ It aims to be more actively updated and maintained as well as add hacks that are
 
 ## Reporting Issues
 
-If you encounter any isseus while using Iridium, please don't hesitate to open an issue on the **GitHub Repository**.
+If you encounter any issues while using Iridium, please don't hesitate to open an issue on the **GitHub Repository**.
 
 ## License
 
