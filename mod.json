@@ -1,0 +1,35 @@
+{
+	"geode": "5.11.2",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"id": "ayydxn.iridium-menu",
+	"name": "Iridium",
+	"version": "v1.0.0",
+	"developers": [
+		"Ayydxn"
+	],
+	"description": "A powerful, free and open-source Geometry Dash mod menu. Based on the Eclipse Mod Menu.",
+	"tags": [
+		"gameplay",
+		"offline",
+		"enhancement",
+		"interface",
+		"utility",
+		"customization",
+		"cheat"
+	],
+	"dependencies": {
+		"geode.node-ids": ">=v1.23.3"
+	},
+	"links": {
+		"source": "https://github.com/Ayydxn/IridiumMenu"
+	},
+	"issues": {
+		"info": "If you encounter any issues, report on the mod's issue tracker on GitHub.",
+		"url": "https://github.com/Ayydxn/IridiumMenu/issues"
+	}
+}
